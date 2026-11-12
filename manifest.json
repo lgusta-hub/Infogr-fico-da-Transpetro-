@@ -1,0 +1,16 @@
+{
+  "name": "Infográfico Transpetro",
+  "short_name": "Infográfico",
+  "start_url": "/Infogr-fico-da-Transpetro-/index.html",
+  "scope": "/Infogr-fico-da-Transpetro-/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "icons": [
+    {
+      "src": "https://flaticon.com",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
